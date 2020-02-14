@@ -2,7 +2,7 @@
 title: "Justice et inégalités en France"  
 subtitle: "Séquence d'analyses sur le logiciel R à partir de l’enquête Baromètre et Opinion (enquête réalisée par la DREES et BVA en 2018)"  
 author: "L. Gabriel Cruz Saavedra"  
-date: "Février 2020"
+date: "14/02/2020"
 output: 
   html_document: 
     code_folding: show
@@ -1736,7 +1736,7 @@ c(proba2018 - 2 * SE, proba2018 + 2 * SE)
 ```
 
 ```
-## [1] 0.7686561 0.7989481
+## [1] 0.7677825 0.7998217
 ```
 
 
