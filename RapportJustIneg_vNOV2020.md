@@ -190,13 +190,13 @@ Une fois importé, le fichier devrait apparaître sous la forme d'objet dans la 
 
 <br>
 
-<img src="D:/FoSTProject/DossiersProjets/BarometreDRESS/Illustrations/ImportData.png" width="300"> 
+<img src="~/Illustrations/ImportData.png" width="300"> 
 
 <br>
 
 Le contenu peut être visualisé à l'aide de fonctions mais aussi à l'aide de l'interface de RStudio. Dans cette animation, on accède à l'objet en format de tableau classique en cliquant sur l'objet qui se crée lors de l'importation :
 
-<img src="D:/FoSTProject/DossiersProjets/BarometreDRESS/Illustrations/ImportProcess.gif" height="250"/>
+<img src="~/Illustrations/ImportProcess.gif" height="250"/>
 
 <br>
 
